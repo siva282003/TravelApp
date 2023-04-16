@@ -6,8 +6,8 @@ A personalized travel app is a mobile application that offers customized travel 
 
 
 ## Video Demonstration link 
-
 https://drive.google.com/file/d/1x5V-rwIhjY6xHOnz313qsz2jrs8D7hQB/view?usp=drivesdk
+
 
 
 
